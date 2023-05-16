@@ -1,6 +1,7 @@
 /*
 
 Cleaning Data in SQL Queries
+Data used for this project is can be found in the same folder named as "Nashville Housing Data for Data Cleaning"
 
 */
 
